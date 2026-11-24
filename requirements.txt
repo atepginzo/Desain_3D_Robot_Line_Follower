@@ -1,0 +1,6 @@
+# Dependensi Proyek Simulasi Robot Line Follower
+# Webots R2025b / Python 3.8+
+
+numpy>=1.22.0
+matplotlib>=3.5.0
+flake8>=6.0.0
